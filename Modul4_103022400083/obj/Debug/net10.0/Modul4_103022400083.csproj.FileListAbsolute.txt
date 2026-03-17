@@ -1,0 +1,15 @@
+E:\DeeDrive\Projects\Kuliah\kpl\Modul4_103022400083\Modul4_103022400083\obj\Debug\net10.0\Modul4_103022400083.GeneratedMSBuildEditorConfig.editorconfig
+E:\DeeDrive\Projects\Kuliah\kpl\Modul4_103022400083\Modul4_103022400083\obj\Debug\net10.0\Modul4_103022400083.AssemblyInfoInputs.cache
+E:\DeeDrive\Projects\Kuliah\kpl\Modul4_103022400083\Modul4_103022400083\obj\Debug\net10.0\Modul4_103022400083.AssemblyInfo.cs
+E:\DeeDrive\Projects\Kuliah\kpl\Modul4_103022400083\Modul4_103022400083\obj\Debug\net10.0\Modul4_103022400083.csproj.CoreCompileInputs.cache
+E:\DeeDrive\Projects\Kuliah\kpl\Modul4_103022400083\Modul4_103022400083\obj\Debug\net10.0\Modul4_103022400083.sourcelink.json
+E:\DeeDrive\Projects\Kuliah\kpl\Modul4_103022400083\Modul4_103022400083\bin\Debug\net10.0\Modul4_103022400083.exe
+E:\DeeDrive\Projects\Kuliah\kpl\Modul4_103022400083\Modul4_103022400083\bin\Debug\net10.0\Modul4_103022400083.deps.json
+E:\DeeDrive\Projects\Kuliah\kpl\Modul4_103022400083\Modul4_103022400083\bin\Debug\net10.0\Modul4_103022400083.runtimeconfig.json
+E:\DeeDrive\Projects\Kuliah\kpl\Modul4_103022400083\Modul4_103022400083\bin\Debug\net10.0\Modul4_103022400083.dll
+E:\DeeDrive\Projects\Kuliah\kpl\Modul4_103022400083\Modul4_103022400083\bin\Debug\net10.0\Modul4_103022400083.pdb
+E:\DeeDrive\Projects\Kuliah\kpl\Modul4_103022400083\Modul4_103022400083\obj\Debug\net10.0\Modul4_103022400083.dll
+E:\DeeDrive\Projects\Kuliah\kpl\Modul4_103022400083\Modul4_103022400083\obj\Debug\net10.0\refint\Modul4_103022400083.dll
+E:\DeeDrive\Projects\Kuliah\kpl\Modul4_103022400083\Modul4_103022400083\obj\Debug\net10.0\Modul4_103022400083.pdb
+E:\DeeDrive\Projects\Kuliah\kpl\Modul4_103022400083\Modul4_103022400083\obj\Debug\net10.0\Modul4_103022400083.genruntimeconfig.cache
+E:\DeeDrive\Projects\Kuliah\kpl\Modul4_103022400083\Modul4_103022400083\obj\Debug\net10.0\ref\Modul4_103022400083.dll
