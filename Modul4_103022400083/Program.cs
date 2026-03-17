@@ -11,3 +11,4 @@ foreach (string s in namaPaketList)
         Console.WriteLine($"{s}\t{kodePaket.getKodePaket(s)}");
     }
 }
+MesinKopi.Main();
